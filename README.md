@@ -1,12 +1,8 @@
 # 💫 Hi 👋, I'm Archit Kesarwani
 A Software Engineer || DevOps Engineer || 
 
-Email Me 👉 ✉️ **architkesarwani34@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
 - 🔭 I’m currently working on: Web development
 - 🌱 I’m currently learning: JAVA
-- 📫 **How to reach me:** architkesarwani34@gmail.com
-- 😄 **Pronouns:** Archit
 - ⚡ **Fun fact:** I Love coading and coading Love Me
 
  ## 🏆 GitHub Trophies
